@@ -2,7 +2,7 @@
 ![image](hello-world.jpg)
 
 
-## Hey there, I'm Adhith Sankar - aka [CodeSavitar] 👋
+## I'm Adhith Sankar - aka [CodeSavitar] 👋
 
 ### I'm a B-Tech CSE third year student at SRMIST KTR!!
 
