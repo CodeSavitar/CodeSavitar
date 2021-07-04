@@ -2,7 +2,7 @@
 ![image](hello-world.jpg)
 
 
-## Hi there, I'm Adhith Sankar - aka [CodeSavitar] 👋
+## Hey there, I'm Adhith Sankar - aka [CodeSavitar] 👋
 
 ### I'm a B-Tech CSE third year student at SRMIST KTR!!
 
@@ -16,20 +16,26 @@
 
 ### Connect with me 😄:
 
-[<img align="left" alt="CodeSavitar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="CodeSavitar | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CodeSavitar | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CodeSavitar | StackOverFlow" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
+<br>
 <br>
 
 ### My Github Stats 😅:
 
-<img aling="left" img src="https://github-readme-stats.vercel.app/api?username=CodeSavitar&theme=gotham&show_icons=true">
+<br>
+
+<p align = "center">
+    <img aling="centre" img src="https://github-readme-stats.vercel.app/api?username=CodeSavitar&theme=gotham&show_icons=true">
+</p>
 
 <br>
 
-<img aling="left" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&layout=compact">
-
+<p align = "center">
+    <img aling="centre" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact">
+</p>
 
 [linkedin]: https://www.linkedin.com/in/adhith-sankar-481825156/
 [instagram]: https://www.instagram.com/aadhi_sagit/
