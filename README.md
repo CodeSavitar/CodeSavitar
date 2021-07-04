@@ -24,7 +24,11 @@
 
 ### My Github Stats 😅:
 
-[<img aling="left" img src="https://github-readme-stats.vercel.app/api?username=codesavitar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">]
+<img aling="left" img src="https://github-readme-stats.vercel.app/api?username=CodeSavitar&theme=gotham&show_icons=true">
+
+<br>
+
+<img aling="left" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&layout=compact">
 
 
 [linkedin]: https://www.linkedin.com/in/adhith-sankar-481825156/
