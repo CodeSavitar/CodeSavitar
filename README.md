@@ -1,6 +1,6 @@
 ## Hi there, I'm Adhith Sankar - aka [CodeSavitar] 👋
 
-### I'm a B-Tech CSE second year student at SRMIST KTR!!
+### I'm a B-Tech CSE third year student at SRMIST KTR!!
 
 - 👀 I’m interested in learning new things :)
 - 🌱 I’m currently learning how to live my life to the fullest ;)
