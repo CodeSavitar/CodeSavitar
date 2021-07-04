@@ -14,7 +14,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and also win a Hackathon ⚡
 - ⚡ Fun fact: I love to play cricket 🏏
 
-### Connect with me:
+### Connect with me 😄:
 
 [<img align="left" alt="CodeSavitar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -22,7 +22,9 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=codesavitar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+### My Github Stats 😅:
+
+[<img aling="left" img src="https://github-readme-stats.vercel.app/api?username=codesavitar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">]
 
 
 [linkedin]: https://www.linkedin.com/in/adhith-sankar-481825156/
