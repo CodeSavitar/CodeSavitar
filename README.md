@@ -6,7 +6,7 @@
 
 ### I'm a B-Tech CSE third year student at SRMIST KTR!!
 
-- 👨🏾‍💻 I'm a ML and Computer Vision developer
+- 👨🏾‍💻 ML and Computer Vision developer
 - 😁 Pronouns : He/His
 - 👀 I’m interested in learning new things :)
 - 🌱 I’m currently learning Django
