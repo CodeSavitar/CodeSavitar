@@ -28,7 +28,7 @@
 <br>
 
 <p align = "left">
-    <img aling="centre" img src="https://github-readme-stats.vercel.app/api?username=CodeSavitar&theme=gotham&show_icons=true">
+    <img aling="centre" img src="https://github-readme-stats.vercel.app/api?username=CodeSavitar&theme=tokyonight&show_icons=true">
 </p>
 
 <br>
