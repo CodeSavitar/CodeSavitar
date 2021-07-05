@@ -28,14 +28,18 @@
 <br>
 
 <p align = "left">
-    <img aling="centre" img src="https://github-readme-stats.vercel.app/api?username=CodeSavitar&theme=tokyonight&show_icons=true">
+    <img align="centre" img src="https://github-readme-stats.vercel.app/api?username=CodeSavitar&theme=tokyonight&show_icons=true">
 </p>
 
 <br>
 
 <p align = "left">
-    <img aling="centre" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact">
+    <img align="centre" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact">
 </p>
+
+<br>
+
+<!-- <script src="https://embed.github.com/view/3d/CodeSavitar/CodeSavitar/main/CodeSavitar-2020.stl"></script> -->
 
 [linkedin]: https://www.linkedin.com/in/adhith-sankar-481825156/
 [instagram]: https://www.instagram.com/aadhi_sagit/
