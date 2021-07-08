@@ -40,7 +40,7 @@
 <br>
 <br>
 
-<script src="https://embed.github.com/view/3d/CodeSavitar/CodeSavitar/blob/main/CodeSavitar-2020.stl"></script>
+<!-- <script src="https://embed.github.com/view/3d/CodeSavitar/CodeSavitar/blob/main/CodeSavitar-2020.stl"></script> -->
 
 [linkedin]: https://www.linkedin.com/in/adhith-sankar-481825156/
 [instagram]: https://www.instagram.com/aadhi_sagit/
