@@ -12,8 +12,7 @@
 - 🌱 I’m currently learning Django
 - ⭐ I’m looking to collaborate on Data Science/AI projects!!!
 - 🥅 2021 Goals: Contribute more to Open Source projects and also win a Hackathon ⚡
-- ⚡ Fun fact: I love to play cricket 🏏
-
+- ⚡ Fun fact: I love listening to music while I code 🎶
 ### Connect with me 😄:
 
 [<img align="left" alt="CodeSavitar | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
