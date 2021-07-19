@@ -4,7 +4,7 @@
 
 ## I'm Adhith Sankar - aka [CodeSavitar] 👋
 
-![](https://komarev.com/ghpvc/?username=CodeSavitar&color=green)
+![](https://komarev.com/ghpvc/?username=CodeSavitar&color=blue)
 
 ### I'm a B-Tech CSE third year student at SRMIST KTR!!
 
