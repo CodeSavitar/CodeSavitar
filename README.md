@@ -30,7 +30,10 @@
 
 <p align = "left">
     <img align="left" img src="https://github-readme-stats.vercel.app/api?username=CodeSavitar&theme=tokyonight&show_icons=true">
-    <img align="right" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact">
+</p>
+
+<p align = "left">
+    <img align="left" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact">
 </p>
 
 <br>
