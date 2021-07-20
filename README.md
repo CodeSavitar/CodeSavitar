@@ -1,10 +1,12 @@
 
 <!-- ![image](hello-world.jpg) -->
-
-
 ## I'm Adhith Sankar - aka [CodeSavitar] 👋
 
 ![](https://komarev.com/ghpvc/?username=CodeSavitar&color=blue)
+
+<br>
+
+![](My_Gif.gif)
 
 ### I'm a B-Tech CSE third year student at SRMIST KTR!!
 
