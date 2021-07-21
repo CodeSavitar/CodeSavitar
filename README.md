@@ -50,9 +50,9 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://github.com/CodeSavitar/CodeSavitar/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://github.com/CodeSavitar/CodeSavitar/blob/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
+<!-- </p> -->
 
 <!-- <script src="https://embed.github.com/view/3d/CodeSavitar/CodeSavitar/blob/main/CodeSavitar-2020.stl"></script> -->
 
