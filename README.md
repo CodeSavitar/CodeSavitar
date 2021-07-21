@@ -41,14 +41,20 @@
     <img src="https://github-readme-stats.vercel.app/api?username=CodeSavitar&theme=tokyonight&show_icons=true">
 </p>
 
+
+<br>
+
+<p align = "center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSavitar&theme=tokyonight&border_radius=20">
+</p>
+
 <br>
 
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact">
 </p>
 
-<br>
-<br>
+
 
 <!-- <p align="center"> -->
 <!--   <img src="https://github.com/CodeSavitar/CodeSavitar/blob/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
