@@ -26,6 +26,8 @@
 [<img align="left" alt="CodeSavitar | Instagram" width="110px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="CodeSavitar | StackOverFlow" width="140px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
 [<img align="left" alt="CodeSavitar | Quora" width="80px" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />][quora]
+[<img align="left" alt="CodeSavitar | Kaggle" width="85px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
+[<img align="left" alt="CodeSavitar | Hackerrank" width="115px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
 
 <br>
 <br>
@@ -67,6 +69,8 @@
 [instagram]: https://www.instagram.com/aadhi_sagit/
 [stackoverflow]: https://stackoverflow.com/users/15374084/codesavitar
 [quora]: https://www.quora.com/profile/Adhith-Sagit-1
+[kaggle]: https://www.kaggle.com/adhithsankar
+[hackerrank]: https://www.hackerrank.com/RA1911003010025
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg -->
