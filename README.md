@@ -25,6 +25,7 @@
 [<img align="left" alt="CodeSavitar | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="CodeSavitar | Instagram" width="110px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="CodeSavitar | StackOverFlow" width="140px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
+[<img align="left" alt="CodeSavitar | Quora" width="80px" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />][quora]
 
 <br>
 <br>
@@ -65,6 +66,7 @@
 [linkedin]: https://www.linkedin.com/in/adhith-sankar-481825156/
 [instagram]: https://www.instagram.com/aadhi_sagit/
 [stackoverflow]: https://stackoverflow.com/users/15374084/codesavitar
+[quora]: https://www.quora.com/profile/Adhith-Sagit-1
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg -->
