@@ -13,7 +13,7 @@
 
 
 
-### I'm a B-Tech CSE third year student at SRMIST KTR!!
+### I'm a B-Tech CSE third year student at SRMIST KTR 😁
 
 - 👨🏾‍💻 ML and Computer Vision developer
 - 🙋🏾‍♂️ Pronouns : He/His
