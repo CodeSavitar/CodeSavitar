@@ -1,5 +1,9 @@
 
-![](My_Image.png)
+<!-- ![](My_Image.png) -->
+
+<p align="center">
+  <img src="Into_gif.gif" alt="animated" />
+</p>
 
 <h1 align="center">Hi there!! <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Adhith Sankar - aka [CodeSavitar] </h1>
 
@@ -7,9 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CodeSavitar&color=blue)
 
-<!-- <p align="center"> -->
-<!--   <img src="GIF.gif" alt="animated" /> -->
-<!-- </p> -->
+
 
 ### I'm a B-Tech CSE third year student at SRMIST KTR!!
 
