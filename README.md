@@ -49,17 +49,30 @@
 
 <br>
 
-<p align = "center">
+<p align = "left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSavitar&theme=tokyonight&border_radius=20">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact">
 </p>
 
 <br>
 
-<p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact">
-</p>
+<!-- <p align = "right"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact"> -->
+<!-- </p> -->
 
+<br>
 
+### Have a look at my Contribution Graph 🙂:
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CodeSavitar&theme=github)
+
+<br>
+
+### My Trophies 🏆:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeSavitar&column=7&theme=tokyonight" />
+</div>
 
 <!-- <p align="center"> -->
 <!--   <img src="https://github.com/CodeSavitar/CodeSavitar/blob/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
