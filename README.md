@@ -49,16 +49,15 @@
 
 <br>
 
-<p align = "left">
+<p align = "center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSavitar&theme=tokyonight&border_radius=20">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact">
 </p>
 
 <br>
 
-<!-- <p align = "right"> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact"> -->
-<!-- </p> -->
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavitar&theme=nightowl&layout=compact">
+</p>
 
 <br>
 
