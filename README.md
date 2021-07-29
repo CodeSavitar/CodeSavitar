@@ -11,11 +11,9 @@
 
 ![](https://komarev.com/ghpvc/?username=CodeSavitar&color=blue)
 
-
-
 ### I'm a B-Tech CSE third year student at SRMIST KTR 😁
 
-- 👨🏾‍💻 ML and Computer Vision developer
+- 👨🏾‍💻 Machine Learning and Computer Vision Developer
 - 🙋🏾‍♂️ Pronouns : He/His
 - 👀 I’m interested in learning new things :)
 - 🌱 I’m currently learning Django
