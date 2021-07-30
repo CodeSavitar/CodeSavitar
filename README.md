@@ -38,11 +38,11 @@
 
 <br>
 
-### Have a look at my Contribution Graph 🙂:
+### Have a look at my Contribution Graph 📊:
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CodeSavitar&theme=github)
 
-### My Github Stats 📊:
+### My Github Stats 🙂:
 
 <br>
 
