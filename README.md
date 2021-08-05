@@ -28,7 +28,7 @@
 [<img align="left" alt="CodeSavitar | Medium" width="90px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img align="left" alt="CodeSavitar | Quora" width="80px" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />][quora]
 [<img align="left" alt="CodeSavitar | Kaggle" width="85px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
-[<img align="left" alt="CodeSavitar | Hackerrank" width="115px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
+<!-- [<img align="left" alt="CodeSavitar | Hackerrank" width="115px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank] -->
 
 <br>
 <br>
