@@ -16,7 +16,7 @@
 - 👨🏾‍💻 Machine Learning and Computer Vision Developer
 - 🙋🏾‍♂️ Pronouns : He/His
 - 👀 I’m interested in learning new things :)
-- 🌱 I’m currently learning ML Processing  CLI
+- 🌱 I’m currently learning Django
 - ⭐ I’m looking to collaborate on Data Science/AI projects
 - 🥅 2021 Goals: Contribute more Open Source projects and also win a Hackathon ⚡
 - ⚡ Fun fact: I love listening to music while I code 🎶
