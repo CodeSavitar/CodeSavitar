@@ -45,7 +45,9 @@ Frameworks : <p> <a href="https://flask.palletsprojects.com/" target="_blank"> <
  
 IDE : <p> <a href="https://code.visualstudio.com" traget="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" /> </a> <a href="https://www.jetbrains.com/pycharm" traget="_blank"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" /> </a> <a href="https://research.google.com/colaboratory" traget="_blank"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" /> </a> </p>
   
-Cloud : <p> <a href="https://replit.com/" traget="_blank"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" /> </a> <a href="https://www.heroku.com/" traget="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /> </a> <a href="https://www.netlify.com/" traget="_blank"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> </a></p> 
+Cloud : <p>  <a href="https://www.heroku.com/" traget="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /> </a> <a href="https://www.netlify.com/" traget="_blank"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> </a></p> 
+
+<!-- <a href="https://replit.com/" traget="_blank"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" /> </a> -->
 
 <br>
 
