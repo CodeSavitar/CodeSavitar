@@ -13,7 +13,7 @@
 
 ### I'm a B-Tech CSE third year student at SRMIST KTR 😁
 
-- 👨🏾‍💻 Machine Learning Developer
+- 👨🏾‍💻 AI/ML Developer
 - 🙋🏾‍♂️ Pronouns : He/His
 - 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning Django
