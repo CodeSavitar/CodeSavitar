@@ -51,9 +51,9 @@ Cloud : <p>  <a href="https://www.heroku.com/" traget="_blank"> <img src="https:
 
 <br>
 
-### Have a look at my Contribution Graph 📊:
+<!-- ### Have a look at my Contribution Graph 📊: -->
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CodeSavitar&theme=github)
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CodeSavitar&theme=github) -->
 
 ### My Github Stats 🙂:
 
