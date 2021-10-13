@@ -5,7 +5,7 @@
   <img src="Into_gif.gif" alt="animated" />
 </p>
 
-<h1 align="center">Hi there!! <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Adhith Sankar - aka [CodeSavitar] </h1>
+<h1 align="center">Hey there!! <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Adhith Sankar - aka [CodeSavitar] </h1>
 
 <!-- ## I'm Adhith Sankar - aka [CodeSavitar] 👋 -->
 
