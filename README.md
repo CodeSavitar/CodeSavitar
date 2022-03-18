@@ -16,7 +16,7 @@
 - 👨🏾‍💻 AI/ML Developer
 - 🙋🏾‍♂️ Pronouns : He/His
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Data Structures and Algorithms
 - ⭐ I’m looking to collaborate on Data Science/AI projects
 - 🥅 2021 Goals: Contribute more Open Source projects and also win a Hackathon ⚡
 - ⚡ Fun fact: I love listening to music while I code 🎶
@@ -24,10 +24,10 @@
 
 [<img align="left" alt="CodeSavitar | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="CodeSavitar | Instagram" width="110px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="CodeSavitar | StackOverFlow" width="140px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
+<!-- [<img align="left" alt="CodeSavitar | StackOverFlow" width="140px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow] -->
 [<img align="left" alt="CodeSavitar | Medium" width="90px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
-[<img align="left" alt="CodeSavitar | Quora" width="80px" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />][quora]
-[<img align="left" alt="CodeSavitar | Kaggle" width="85px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
+<!-- [<img align="left" alt="CodeSavitar | Quora" width="80px" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />][quora] -->
+<!-- [<img align="left" alt="CodeSavitar | Kaggle" width="85px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle] -->
 <!-- [<img align="left" alt="CodeSavitar | Hackerrank" width="115px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank] -->
 
 <br>
